@@ -1,0 +1,10 @@
+Django==3.1.1
+asgiref==3.2.10
+pytz==2020.1
+sqlparse==0.3.1
+djangorestframework==3.11.1
+django-cors-headers==3.5.0
+pycparser==2.20
+pythonnet==2.5.1
+rhinoinside==0.5.0
+rhino3dm==0.13.0
